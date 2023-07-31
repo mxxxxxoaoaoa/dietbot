@@ -1,0 +1,297 @@
+{
+        "category": "Закуски",
+        "dishes": [
+                {
+                        "title": "Ассорти",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2212.php"
+                },
+                {
+                        "title": "Ассорти в азиатском стиле",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2213.php"
+                },
+                {
+                        "title": "Ассорти из капусты и овощей",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2150.php"
+                },
+                {
+                        "title": "Ассорти мясное на хлебе",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2369.php"
+                },
+                {
+                        "title": "Ассорти рыбное на хлебе",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2368.php"
+                },
+                {
+                        "title": "Ассорти фруктовое",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2319.php"
+                },
+                {
+                        "title": "Бутерброд закрытый с говяжьими котлетами, по 1-54",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24176.php"
+                },
+                {
+                        "title": "Бутерброд из баклажан",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2269.php"
+                },
+                {
+                        "title": "Бутерброд из жареного мяса",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2266.php"
+                },
+                {
+                        "title": "Бутерброд из плавленого сыра",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2268.php"
+                },
+                {
+                        "title": "Бутерброд из сыра",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2265.php"
+                },
+                {
+                        "title": "Бутерброд из творога с сельдью",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2264.php"
+                },
+                {
+                        "title": "Бутерброд из хрена",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2267.php"
+                },
+                {
+                        "title": "Бутерброд пикантный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2366.php"
+                },
+                {
+                        "title": "Бутерброд с  зернистой икрой кеты, по 1-50",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24177.php"
+                },
+                {
+                        "title": "Бутерброд с брынзой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2263.php"
+                },
+                {
+                        "title": "Бутерброд с горчичным маслом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2000.php"
+                },
+                {
+                        "title": "Бутерброд с икрой осетровой, зернистой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24178.php"
+                },
+                {
+                        "title": "Бутерброд с килькой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2001.php"
+                },
+                {
+                        "title": "Бутерброд с килькой и яйцом, по 1-52",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24179.php"
+                },
+                {
+                        "title": "Бутерброд с любительской колбасой, по 1-48",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24180.php"
+                },
+                {
+                        "title": "Бутерброд с морковью и сыром",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2365.php"
+                },
+                {
+                        "title": "Бутерброд с отварной говядиной, по 1-46",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24181.php"
+                },
+                {
+                        "title": "Бутерброд с селедочным маслом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2002.php"
+                },
+                {
+                        "title": "Бутерброд с соленой горбушей, по 1-50",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24183.php"
+                },
+                {
+                        "title": "Бутерброд с творогом и изюмом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2367.php"
+                },
+                {
+                        "title": "Горячий бутерброд",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2196.php"
+                },
+                {
+                        "title": "Гренки из пшеничного хлеба (1-й вариант)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3068.php"
+                },
+                {
+                        "title": "Гренки острые",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3070.php"
+                },
+                {
+                        "title": "Гренки с сыром",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3069.php"
+                },
+                {
+                        "title": "Закуска",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2464.php"
+                },
+                {
+                        "title": "Закуска из плавленого сыра с яйцом и майонезом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2431.php"
+                },
+                {
+                        "title": "Закуска овощная с чесноком (марийское национальное блюдо)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2443.php"
+                },
+                {
+                        "title": "Закуска свекольная с орехами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2441.php"
+                },
+                {
+                        "title": "Заливное из птицы или дичи, или мясных продуктов в форме",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2460.php"
+                },
+                {
+                        "title": "Икра овощная закусочная",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2440.php"
+                },
+                {
+                        "title": "Икра осетровых рыб и икра кетовая",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3160.php"
+                },
+                {
+                        "title": "Канапе с бужениной и окороком",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2372.php"
+                },
+                {
+                        "title": "Канапе с икрой и севрюгой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2374.php"
+                },
+                {
+                        "title": "Канапе с икрой, семгой и осетром",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2375.php"
+                },
+                {
+                        "title": "Канапе с килькой и яйцом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2377.php"
+                },
+                {
+                        "title": "Канапе с паштетом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2373.php"
+                },
+                {
+                        "title": "Канапе с паюсной икрой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2376.php"
+                },
+                {
+                        "title": "Канапе с сыром",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2370.php"
+                },
+                {
+                        "title": "Канапе с сыром и окороком",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2371.php"
+                },
+                {
+                        "title": "Квашеная капуста с орехами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1962.php"
+                },
+                {
+                        "title": "Колбаса русская, свадебная",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1891.php"
+                },
+                {
+                        "title": "Колбаски из сельдерея",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2162.php"
+                },
+                {
+                        "title": "Колбасные, мясные изделия, запеченные в тесте",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3065.php"
+                },
+                {
+                        "title": "Корзиночки (тарталетки) для закусок",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3073.php"
+                },
+                {
+                        "title": "Корзиночки с крабами, креветками, кальмарами или морским гребешком",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2381.php"
+                },
+                {
+                        "title": "Корзиночки с паштетом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2379.php"
+                },
+                {
+                        "title": "Корзиночки с салатом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2378.php"
+                },
+                {
+                        "title": "Корзиночки с языком или ветчиной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2380.php"
+                },
+                {
+                        "title": "Лазанки из картофеля",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1992.php"
+                },
+                {
+                        "title": "Лососина, семга, кета малосоленые",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3158.php"
+                },
+                {
+                        "title": "Масса  из ветчины",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3105.php"
+                },
+                {
+                        "title": "Масса из брынзы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3108.php"
+                },
+                {
+                        "title": "Масса из сыра для бутербродов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3106.php"
+                },
+                {
+                        "title": "Острая закуска",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2442.php"
+                },
+                {
+                        "title": "Пикантная закуска из брынзы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2235.php"
+                },
+                {
+                        "title": "Птичьи гнезда из сельди иваси",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2102.php"
+                },
+                {
+                        "title": "Расстегаи закусочные",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3061.php"
+                },
+                {
+                        "title": "Соленые фаршированные огурцы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1964.php"
+                },
+                {
+                        "title": "Студень говяжий",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2468.php"
+                },
+                {
+                        "title": "Студень из субпродуктов птицы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2470.php"
+                },
+                {
+                        "title": "Студень свиной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2469.php"
+                },
+                {
+                        "title": "Творог с орехами и чесноком",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2655.php"
+                },
+                {
+                        "title": "Творожные шарики",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2654.php"
+                },
+                {
+                        "title": "Творожный бутерброд",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2207.php"
+                },
+                {
+                        "title": "Фарш из пасты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2720.php"
+                },
+                {
+                        "title": "Холодец по домашнему",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2471.php"
+                },
+                {
+                        "title": "Яйца фаршированные креветками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2111.php"
+                }
+        ]
+}

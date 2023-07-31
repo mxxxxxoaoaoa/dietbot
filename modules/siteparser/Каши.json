@@ -1,0 +1,77 @@
+{
+        "category": "Каши",
+        "dishes": [
+                {
+                        "title": "Гречневая каша рассыпчатая",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1717.php"
+                },
+                {
+                        "title": "Каша",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2625.php"
+                },
+                {
+                        "title": "Каша боярская (из пшена с изюмом)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2624.php"
+                },
+                {
+                        "title": "Каша вязкая из пшена с тыквой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2622.php"
+                },
+                {
+                        "title": "Каша гурьевская",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2280.php"
+                },
+                {
+                        "title": "Каша из тыквы с манкой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2571.php"
+                },
+                {
+                        "title": "Каша манная коричневая",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1846.php"
+                },
+                {
+                        "title": "Каша пшенная с сушеными сливами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2121.php"
+                },
+                {
+                        "title": "Каша рисовая с какао",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1853.php"
+                },
+                {
+                        "title": "Манная каша на клюквенном соке",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2117.php"
+                },
+                {
+                        "title": "Манная каша с морковью",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1797.php"
+                },
+                {
+                        "title": "Мучная каша",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1837.php"
+                },
+                {
+                        "title": "Рисовая каша с черносливом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2120.php"
+                },
+                {
+                        "title": "Рисовая с абрикосами по-венгерски",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2119.php"
+                },
+                {
+                        "title": "Яблочно-манная каша",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1758.php"
+                },
+                {
+                        "title": "Яичная каша (натуральная)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2643.php"
+                },
+                {
+                        "title": "Яичная каша с овощами или грибами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2644.php"
+                },
+                {
+                        "title": "Ячневая каша с картофелем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1773.php"
+                }
+        ]
+}

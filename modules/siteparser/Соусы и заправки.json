@@ -1,0 +1,273 @@
+{
+        "category": "Соусы и заправки",
+        "dishes": [
+                {
+                        "title": "Анчоусное масло",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3101.php"
+                },
+                {
+                        "title": "Апельсиновый майонез",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2191.php"
+                },
+                {
+                        "title": "Апельсиновый соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2139.php"
+                },
+                {
+                        "title": "Заправка горчичная",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2937.php"
+                },
+                {
+                        "title": "Заправка для салатов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2936.php"
+                },
+                {
+                        "title": "Коричневый соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1719.php"
+                },
+                {
+                        "title": "Маринад овощной без томата",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2935.php"
+                },
+                {
+                        "title": "Маринад овощной с томатом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2934.php"
+                },
+                {
+                        "title": "Масло зеленое",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3104.php"
+                },
+                {
+                        "title": "Масло зеленое или килечное, или селедочное (селедочное)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2926.php"
+                },
+                {
+                        "title": "Масло с кильками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3103.php"
+                },
+                {
+                        "title": "Масло со шпротами или сардинами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3102.php"
+                },
+                {
+                        "title": "Молочный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1723.php"
+                },
+                {
+                        "title": "Перечная приправа",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2165.php"
+                },
+                {
+                        "title": "Приятный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2199.php"
+                },
+                {
+                        "title": "Салатная заправка",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1731.php"
+                },
+                {
+                        "title": "Соус - белое вино",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2910.php"
+                },
+                {
+                        "title": "Соус белый",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2055.php"
+                },
+                {
+                        "title": "Соус белый (для запекания рыбы)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2909.php"
+                },
+                {
+                        "title": "Соус белый основной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2901.php"
+                },
+                {
+                        "title": "Соус белый с яйцом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2903.php"
+                },
+                {
+                        "title": "Соус голландский",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2924.php"
+                },
+                {
+                        "title": "Соус голландский",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1726.php"
+                },
+                {
+                        "title": "Соус грибной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2921.php"
+                },
+                {
+                        "title": "Соус грибной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1722.php"
+                },
+                {
+                        "title": "Соус грибной с томатом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2922.php"
+                },
+                {
+                        "title": "Соус из зелени",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1735.php"
+                },
+                {
+                        "title": "Соус из кильки",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1727.php"
+                },
+                {
+                        "title": "Соус из масла и крутого яйца",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1725.php"
+                },
+                {
+                        "title": "Соус из репчатого лука",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1720.php"
+                },
+                {
+                        "title": "Соус из сельдерея",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1733.php"
+                },
+                {
+                        "title": "Соус из хрена",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1734.php"
+                },
+                {
+                        "title": "Соус из шампиньонов со сливками.",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2056.php"
+                },
+                {
+                        "title": "Соус красный кисло-сладкий",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2899.php"
+                },
+                {
+                        "title": "Соус красный основной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2892.php"
+                },
+                {
+                        "title": "Соус красный с вином",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2893.php"
+                },
+                {
+                        "title": "Соус красный с кореньями (для тефтелей)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2897.php"
+                },
+                {
+                        "title": "Соус красный с кореньями (для тушеного мяса)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2896.php"
+                },
+                {
+                        "title": "Соус красный с луком и грибами (охотничий)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2898.php"
+                },
+                {
+                        "title": "Соус красный с луком и огурцами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2895.php"
+                },
+                {
+                        "title": "Соус майонез",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2928.php"
+                },
+                {
+                        "title": "Соус майонез с желе (банкетный)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2930.php"
+                },
+                {
+                        "title": "Соус майонез с корнишонами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2931.php"
+                },
+                {
+                        "title": "Соус майонез с хреном",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2932.php"
+                },
+                {
+                        "title": "Соус майонез со сметаной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2929.php"
+                },
+                {
+                        "title": "Соус молочный (для запекания овощей, мяса, рыбы)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2915.php"
+                },
+                {
+                        "title": "Соус молочный (для подачи к блюду)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2913.php"
+                },
+                {
+                        "title": "Соус молочный (сладкий)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2914.php"
+                },
+                {
+                        "title": "Соус молочный густой (для фарширования)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2916.php"
+                },
+                {
+                        "title": "Соус паровой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2908.php"
+                },
+                {
+                        "title": "Соус польский",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2923.php"
+                },
+                {
+                        "title": "Соус сметанный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2917.php"
+                },
+                {
+                        "title": "Соус сметанный с томатом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2918.php"
+                },
+                {
+                        "title": "Соус сметанный с томатом и луком",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2919.php"
+                },
+                {
+                        "title": "Соус сметанный с хреном",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2920.php"
+                },
+                {
+                        "title": "Соус сухарный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2925.php"
+                },
+                {
+                        "title": "Соус татарский",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2297.php"
+                },
+                {
+                        "title": "Соус томатный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2904.php"
+                },
+                {
+                        "title": "Соус томатный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2911.php"
+                },
+                {
+                        "title": "Соус томатный с грибами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2905.php"
+                },
+                {
+                        "title": "Соус томатный с овощами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2912.php"
+                },
+                {
+                        "title": "Соус универсальный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2104.php"
+                },
+                {
+                        "title": "Соус хрен (со сметаной)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2933.php"
+                },
+                {
+                        "title": "Сырный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1721.php"
+                },
+                {
+                        "title": "Творожный майонез",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1738.php"
+                },
+                {
+                        "title": "Хлебный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2124.php"
+                },
+                {
+                        "title": "Яично-масляный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1724.php"
+                }
+        ]
+}

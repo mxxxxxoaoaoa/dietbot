@@ -1,0 +1,897 @@
+{
+        "category": "Салаты",
+        "dishes": [
+                {
+                        "title": "Винегрет",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2223.php"
+                },
+                {
+                        "title": "Винегрет из овощей",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3145.php"
+                },
+                {
+                        "title": "Винегрет из овощей и фруктов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3146.php"
+                },
+                {
+                        "title": "Винегрет из овощей, яблок и зелени",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2322.php"
+                },
+                {
+                        "title": "Винегрет из перца с картофелем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3147.php"
+                },
+                {
+                        "title": "Винегрет из фруктов и овощей",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2426.php"
+                },
+                {
+                        "title": "Винегрет овощной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2424.php"
+                },
+                {
+                        "title": "Винегрет овощной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1969.php"
+                },
+                {
+                        "title": "Винегрет по-румынски",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2057.php"
+                },
+                {
+                        "title": "Винегрет с консервированным мясом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3148.php"
+                },
+                {
+                        "title": "Винегрет с селедкой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1939.php"
+                },
+                {
+                        "title": "Винегрет с сельдью",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2425.php"
+                },
+                {
+                        "title": "Диетический салат из свеклы и яблок",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1903.php"
+                },
+                {
+                        "title": "Жареный салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2282.php"
+                },
+                {
+                        "title": "Морковный салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1927.php"
+                },
+                {
+                        "title": "Морковь с помидорами и яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1663.php"
+                },
+                {
+                        "title": "Огуречный салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1923.php"
+                },
+                {
+                        "title": "Окрошка",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2338.php"
+                },
+                {
+                        "title": "Окрошка",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2042.php"
+                },
+                {
+                        "title": "Окрошка мясная",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2549.php"
+                },
+                {
+                        "title": "Окрошка овощная",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2551.php"
+                },
+                {
+                        "title": "Окрошка сборная мясная",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2550.php"
+                },
+                {
+                        "title": "Оригинальный салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2208.php"
+                },
+                {
+                        "title": "Пестрый летний салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2170.php"
+                },
+                {
+                        "title": "Пестрый салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1933.php"
+                },
+                {
+                        "title": "Печеночный салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2356.php"
+                },
+                {
+                        "title": "Пикантный салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2202.php"
+                },
+                {
+                        "title": "Помидоры с огурцами и перцем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1661.php"
+                },
+                {
+                        "title": "Помидоры с огурцами и яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1639.php"
+                },
+                {
+                        "title": "Помидоры с чесночной заправкой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2060.php"
+                },
+                {
+                        "title": "Помидоры, фаршированные  салатом из яблок и огурцов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1904.php"
+                },
+                {
+                        "title": "Помидоры, фаршированные салатом из яблок и огурцов.",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2074.php"
+                },
+                {
+                        "title": "Редиска со сметаной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2088.php"
+                },
+                {
+                        "title": "Редька в сметане",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1660.php"
+                },
+                {
+                        "title": "Рыбный салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1602.php"
+                },
+                {
+                        "title": "Рыбный салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1929.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2412.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1901.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2387.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2003.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2028.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2296.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1968.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2004.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2315.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2008.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2025.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2389.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1967.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2354.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2032.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2031.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2024.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1902.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2358.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2414.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2417.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2409.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2255.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2030.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2009.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2318.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2005.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2289.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2010.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2305.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2007.php"
+                },
+                {
+                        "title": "Салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2033.php"
+                },
+                {
+                        "title": "Салат витаминный - 1",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2390.php"
+                },
+                {
+                        "title": "Салат витаминный - 2",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2391.php"
+                },
+                {
+                        "title": "Салат гороховый с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1920.php"
+                },
+                {
+                        "title": "Салат греческий",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1926.php"
+                },
+                {
+                        "title": "Салат для мужчин",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1934.php"
+                },
+                {
+                        "title": "Салат из апельсинов и лука-порея",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2193.php"
+                },
+                {
+                        "title": "Салат из белокачанной капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3125.php"
+                },
+                {
+                        "title": "Салат из белокочанной и морской капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2702.php"
+                },
+                {
+                        "title": "Салат из белокочанной капусты с кальмарами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2703.php"
+                },
+                {
+                        "title": "Салат из белокочанной капусты с сельдью и шпиком",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2413.php"
+                },
+                {
+                        "title": "Салат из белокочанной капусты с яблоками и сельдереем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2397.php"
+                },
+                {
+                        "title": "Салат из белых грибов или шампиньонов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3133.php"
+                },
+                {
+                        "title": "Салат из бобов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1972.php"
+                },
+                {
+                        "title": "Салат из грибов и квашеной капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1671.php"
+                },
+                {
+                        "title": "Салат из грибов с сельдью",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1976.php"
+                },
+                {
+                        "title": "Салат из зелени с дичью",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3140.php"
+                },
+                {
+                        "title": "Салат из кабачков и помидоров",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1989.php"
+                },
+                {
+                        "title": "Салат из кальмаров с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2704.php"
+                },
+                {
+                        "title": "Салат из капусты с апельсинами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2006.php"
+                },
+                {
+                        "title": "Салат из капусты с грибами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2408.php"
+                },
+                {
+                        "title": "Салат из капусты с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3126.php"
+                },
+                {
+                        "title": "Салат из капусты с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1635.php"
+                },
+                {
+                        "title": "Салат из капусты с яблоками и луком",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1906.php"
+                },
+                {
+                        "title": "Салат из картофеля с морской капустой и свеклой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2700.php"
+                },
+                {
+                        "title": "Салат из картофеля с редькой и яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2404.php"
+                },
+                {
+                        "title": "Салат из квашенной капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3128.php"
+                },
+                {
+                        "title": "Салат из квашенной капусты и свеклы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1636.php"
+                },
+                {
+                        "title": "Салат из квашеной капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1664.php"
+                },
+                {
+                        "title": "Салат из квашеной капусты с селью",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3129.php"
+                },
+                {
+                        "title": "Салат из кильки в томатном соусе",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2029.php"
+                },
+                {
+                        "title": "Салат из кольраби",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2144.php"
+                },
+                {
+                        "title": "Салат из крабов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3144.php"
+                },
+                {
+                        "title": "Салат из красного сладкого перца, зеленого горошка и риса",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3130.php"
+                },
+                {
+                        "title": "Салат из краснокачанной капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3123.php"
+                },
+                {
+                        "title": "Салат из краснокачанной капусты с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3124.php"
+                },
+                {
+                        "title": "Салат из краснокочанной капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1637.php"
+                },
+                {
+                        "title": "Салат из краснокочанной капусты с грибами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1638.php"
+                },
+                {
+                        "title": "Салат из креветок с рисом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2707.php"
+                },
+                {
+                        "title": "Салат из кукурузы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3134.php"
+                },
+                {
+                        "title": "Салат из курицы по-архангельски",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2250.php"
+                },
+                {
+                        "title": "Салат из маринованной свеклы с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2392.php"
+                },
+                {
+                        "title": "Салат из моркови",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2341.php"
+                },
+                {
+                        "title": "Салат из моркови и капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1641.php"
+                },
+                {
+                        "title": "Салат из моркови с курагой, помидорами и яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2320.php"
+                },
+                {
+                        "title": "Салат из моркови с орехами и медом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2398.php"
+                },
+                {
+                        "title": "Салат из моркови с хреном",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1640.php"
+                },
+                {
+                        "title": "Салат из морского гребешка с огурцами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2706.php"
+                },
+                {
+                        "title": "Салат из овощей с капустой морской",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2701.php"
+                },
+                {
+                        "title": "Салат из огурцов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3114.php"
+                },
+                {
+                        "title": "Салат из огурцов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1975.php"
+                },
+                {
+                        "title": "Салат из перца",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1659.php"
+                },
+                {
+                        "title": "Салат из помидоров",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2069.php"
+                },
+                {
+                        "title": "Салат из помидоров и огурцов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3115.php"
+                },
+                {
+                        "title": "Салат из помидоров по-чилийски",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2011.php"
+                },
+                {
+                        "title": "Салат из помидоров, огурцов и сладкого перца",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3131.php"
+                },
+                {
+                        "title": "Салат из птицы  или дичи",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3139.php"
+                },
+                {
+                        "title": "Салат из птицы или дичи",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2419.php"
+                },
+                {
+                        "title": "Салат из разных фруктов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2321.php"
+                },
+                {
+                        "title": "Салат из редиса",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1974.php"
+                },
+                {
+                        "title": "Салат из редиски со метаной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3116.php"
+                },
+                {
+                        "title": "Салат из редьки",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3117.php"
+                },
+                {
+                        "title": "Салат из редьки и картофеля по-кабардински",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2402.php"
+                },
+                {
+                        "title": "Салат из редьки с орехами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1973.php"
+                },
+                {
+                        "title": "Салат из репы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2400.php"
+                },
+                {
+                        "title": "Салат из рыбы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3141.php"
+                },
+                {
+                        "title": "Салат из свежей капусты с мясом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2026.php"
+                },
+                {
+                        "title": "Салат из свежих овощей",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3111.php"
+                },
+                {
+                        "title": "Салат из свеклы и хрена",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1655.php"
+                },
+                {
+                        "title": "Салат из свеклы с орехами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1970.php"
+                },
+                {
+                        "title": "Салат из свеклы с сыром и чесноком",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2393.php"
+                },
+                {
+                        "title": "Салат из свеклы с хреном",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3121.php"
+                },
+                {
+                        "title": "Салат из свеклы с черносливом, орехами и чесноком",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2394.php"
+                },
+                {
+                        "title": "Салат из сельди",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3132.php"
+                },
+                {
+                        "title": "Салат из соленых огурцов и брюквы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1665.php"
+                },
+                {
+                        "title": "Салат из соленых огурцов и редьки",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1666.php"
+                },
+                {
+                        "title": "Салат из соленых огурцов и свеклы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1667.php"
+                },
+                {
+                        "title": "Салат из спаржи",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1634.php"
+                },
+                {
+                        "title": "Салат из стручковой фасоли",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3135.php"
+                },
+                {
+                        "title": "Салат из стручковой фасоли",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1645.php"
+                },
+                {
+                        "title": "Салат из сырой моркови и репы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3118.php"
+                },
+                {
+                        "title": "Салат из сырой моркови м яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3119.php"
+                },
+                {
+                        "title": "Салат из сырой свеклы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1657.php"
+                },
+                {
+                        "title": "Салат из сырых овощей",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2388.php"
+                },
+                {
+                        "title": "Салат из сырых овощей с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3112.php"
+                },
+                {
+                        "title": "Салат из творога",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2276.php"
+                },
+                {
+                        "title": "Салат из трески с майонезом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3143.php"
+                },
+                {
+                        "title": "Салат из трески с хреном",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3142.php"
+                },
+                {
+                        "title": "Салат из тыквы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2168.php"
+                },
+                {
+                        "title": "Салат из тыквы по-чувашски",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2396.php"
+                },
+                {
+                        "title": "Салат из тыквы с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1921.php"
+                },
+                {
+                        "title": "Салат из фасоли",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3136.php"
+                },
+                {
+                        "title": "Салат из фасоли",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1971.php"
+                },
+                {
+                        "title": "Салат из фруктов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3113.php"
+                },
+                {
+                        "title": "Салат из цветной капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2153.php"
+                },
+                {
+                        "title": "Салат из цветной капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1642.php"
+                },
+                {
+                        "title": "Салат из цветной капусты, свежих огурцов и помидоров",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3127.php"
+                },
+                {
+                        "title": "Салат из шампиньонов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2407.php"
+                },
+                {
+                        "title": "Салат из щавеля",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1633.php"
+                },
+                {
+                        "title": "Салат из яблок и брусники",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1676.php"
+                },
+                {
+                        "title": "Салат из яблок и лука",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1672.php"
+                },
+                {
+                        "title": "Салат из яблок и моркови  с орехами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3120.php"
+                },
+                {
+                        "title": "Салат из яблок и помидоров",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1673.php"
+                },
+                {
+                        "title": "Салат из яблок и сливы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1675.php"
+                },
+                {
+                        "title": "Салат из яблок и тыквы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1674.php"
+                },
+                {
+                        "title": "Салат из яблок с орехами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1905.php"
+                },
+                {
+                        "title": "Салат картофельный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3122.php"
+                },
+                {
+                        "title": "Салат картофельный с грибами и брусникой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2405.php"
+                },
+                {
+                        "title": "Салат картофельный с грибами и клюквой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2406.php"
+                },
+                {
+                        "title": "Салат картофельный с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2403.php"
+                },
+                {
+                        "title": "Салат любительский",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2099.php"
+                },
+                {
+                        "title": "Салат Муравейник",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2116.php"
+                },
+                {
+                        "title": "Салат мясной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3137.php"
+                },
+                {
+                        "title": "Салат мясной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2415.php"
+                },
+                {
+                        "title": "Салат овощной с редькой и яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2401.php"
+                },
+                {
+                        "title": "Салат овощной с яблоками и сладким перцем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2399.php"
+                },
+                {
+                        "title": "Салат освежающий с редькой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2324.php"
+                },
+                {
+                        "title": "Салат осенний",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2098.php"
+                },
+                {
+                        "title": "Салат по-берлински",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1668.php"
+                },
+                {
+                        "title": "Салат по-деревенски",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2410.php"
+                },
+                {
+                        "title": "Салат по-коми-пермяцки (из квашеной капусты с мясом)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2416.php"
+                },
+                {
+                        "title": "Салат по-французски",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1670.php"
+                },
+                {
+                        "title": "Салат по-чешски",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1669.php"
+                },
+                {
+                        "title": "Салат рыбный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2323.php"
+                },
+                {
+                        "title": "Салат рыбный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2411.php"
+                },
+                {
+                        "title": "Салат рыбный с морской капустой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2705.php"
+                },
+                {
+                        "title": "Салат с кальмарами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2247.php"
+                },
+                {
+                        "title": "Салат с колбасой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3138.php"
+                },
+                {
+                        "title": "Салат с копченой треской",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1977.php"
+                },
+                {
+                        "title": "Салат с креветками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2012.php"
+                },
+                {
+                        "title": "Салат с кукурузой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2027.php"
+                },
+                {
+                        "title": "Салат с маслом и уксусом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3110.php"
+                },
+                {
+                        "title": "Салат с сардинами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1938.php"
+                },
+                {
+                        "title": "Салат с сельдереем и творогом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2075.php"
+                },
+                {
+                        "title": "Салат сезонный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2395.php"
+                },
+                {
+                        "title": "Салат со сметаной и яйцом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3109.php"
+                },
+                {
+                        "title": "Салат столичный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2418.php"
+                },
+                {
+                        "title": "Салат фруктовый со сметанным соусом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2948.php"
+                },
+                {
+                        "title": "Салат яичный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2427.php"
+                },
+                {
+                        "title": "Салат-коктейль",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2288.php"
+                },
+                {
+                        "title": "Салат-коктейль овощной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2420.php"
+                },
+                {
+                        "title": "Салат-коктейль рыбный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2421.php"
+                },
+                {
+                        "title": "Салат-коктейль с ветчиной и сыром",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2422.php"
+                },
+                {
+                        "title": "Салат-коктейль с курицей и фруктами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2423.php"
+                },
+                {
+                        "title": "Свекла в сладком маринаде",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1677.php"
+                },
+                {
+                        "title": "Свекла с клюквой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1656.php"
+                },
+                {
+                        "title": "Селедка",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2061.php"
+                },
+                {
+                        "title": "Сельдь протертая с маслом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3150.php"
+                },
+                {
+                        "title": "Сыр картофельный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2432.php"
+                },
+                {
+                        "title": "Сыр слоеный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2430.php"
+                },
+                {
+                        "title": "Сырный салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1925.php"
+                },
+                {
+                        "title": "Сырный салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2204.php"
+                },
+                {
+                        "title": "Фальшивый Оливье",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2252.php"
+                },
+                {
+                        "title": "Черемша с маслом (национальное блюдо народов Севера)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2569.php"
+                },
+                {
+                        "title": "Яблочный салат с сельдереем и помидорами.",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2076.php"
+                },
+                {
+                        "title": "Яичный салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1922.php"
+                }
+        ]
+}

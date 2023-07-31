@@ -1,0 +1,89 @@
+{
+        "category": "Полуфабрикаты",
+        "dishes": [
+                {
+                        "title": "Фарш грибной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3094.php"
+                },
+                {
+                        "title": "Фарш из зеленого лука с яйцом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3093.php"
+                },
+                {
+                        "title": "Фарш из картофеля и свинины",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3086.php"
+                },
+                {
+                        "title": "Фарш из квашеной капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3089.php"
+                },
+                {
+                        "title": "Фарш из рыбы и капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3085.php"
+                },
+                {
+                        "title": "Фарш из рыбы и картофеля",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3083.php"
+                },
+                {
+                        "title": "Фарш из рыбы и яиц",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3084.php"
+                },
+                {
+                        "title": "Фарш из свежей капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3088.php"
+                },
+                {
+                        "title": "Фарш картофельный с грибами или луком (1-й вариант)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3087.php"
+                },
+                {
+                        "title": "Фарш ливерный с кашей",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3079.php"
+                },
+                {
+                        "title": "Фарш морковный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3090.php"
+                },
+                {
+                        "title": "Фарш морковный с рисом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3092.php"
+                },
+                {
+                        "title": "Фарш морковный с яйцом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3091.php"
+                },
+                {
+                        "title": "Фарш мясной с рисом и яйцом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3077.php"
+                },
+                {
+                        "title": "Фарш рисовый с грибами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3096.php"
+                },
+                {
+                        "title": "Фарш рисовый с яйцом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3095.php"
+                },
+                {
+                        "title": "Фарш рыбный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3080.php"
+                },
+                {
+                        "title": "Фарш рыбный с рисом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3081.php"
+                },
+                {
+                        "title": "Фарш рыбный с рисом и визигой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3082.php"
+                },
+                {
+                        "title": "Фарш творожный (для ватрушек, пирожков и вареников)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3098.php"
+                },
+                {
+                        "title": "Фарш яблочный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3099.php"
+                }
+        ]
+}

@@ -1,0 +1,657 @@
+{
+        "category": "Первые блюда",
+        "dishes": [
+                {
+                        "title": "Борщ",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2473.php"
+                },
+                {
+                        "title": "Борщ из свежей капусты и картофеля по 1-110",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24184.php"
+                },
+                {
+                        "title": "Борщ кубанский с кабачками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2482.php"
+                },
+                {
+                        "title": "Борщ летний (с ботвой свеклы)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2479.php"
+                },
+                {
+                        "title": "Борщ летний по 1-122",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24185.php"
+                },
+                {
+                        "title": "Борщ московский",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2476.php"
+                },
+                {
+                        "title": "Борщ по 1-110",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24186.php"
+                },
+                {
+                        "title": "Борщ по-вегетариански",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1548.php"
+                },
+                {
+                        "title": "Борщ с капустой и картофелем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2474.php"
+                },
+                {
+                        "title": "Борщ с картофелем по 1-112",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24187.php"
+                },
+                {
+                        "title": "Борщ с черносливом и грибами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2475.php"
+                },
+                {
+                        "title": "Борщ сибирский",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2477.php"
+                },
+                {
+                        "title": "Борщ украинский",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2480.php"
+                },
+                {
+                        "title": "Борщ украинский по 1-122",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24188.php"
+                },
+                {
+                        "title": "Борщ холодный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2095.php"
+                },
+                {
+                        "title": "Борщ холодный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2555.php"
+                },
+                {
+                        "title": "Говяжий суп",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1552.php"
+                },
+                {
+                        "title": "Голландский зеленый суп",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2131.php"
+                },
+                {
+                        "title": "Голландский зеленый суп",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2279.php"
+                },
+                {
+                        "title": "Гороховый суп",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1875.php"
+                },
+                {
+                        "title": "Грибной борщ",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1763.php"
+                },
+                {
+                        "title": "Грибной суп",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2326.php"
+                },
+                {
+                        "title": "Куриный суп по-индийски",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1751.php"
+                },
+                {
+                        "title": "Куриный суп с макаронами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1834.php"
+                },
+                {
+                        "title": "Литовский холодный борщ",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2122.php"
+                },
+                {
+                        "title": "Лэпсытепх (бульон с жареными орешками из муки и зажаркой - адыгейское национальное блюдо)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2538.php"
+                },
+                {
+                        "title": "Молочный суп с морковью",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1789.php"
+                },
+                {
+                        "title": "Окрошка мясная на кефире с говядиной, по 1-194",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24190.php"
+                },
+                {
+                        "title": "Окрошка мясная со сметаной и говядиной,  по 1-192",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24191.php"
+                },
+                {
+                        "title": "Окрошка овощная по 1-192",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24189.php"
+                },
+                {
+                        "title": "Похлебка грибная (карельское национальное блюдо)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2511.php"
+                },
+                {
+                        "title": "Похлебка из сардин в горшочке",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2109.php"
+                },
+                {
+                        "title": "Похлебка по-суворовски",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2509.php"
+                },
+                {
+                        "title": "Похлебка рыбная по-сибирски",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2508.php"
+                },
+                {
+                        "title": "Похлебка старомосковская",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2510.php"
+                },
+                {
+                        "title": "Рассольник",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2491.php"
+                },
+                {
+                        "title": "Рассольник",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1785.php"
+                },
+                {
+                        "title": "Рассольник домашний",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2492.php"
+                },
+                {
+                        "title": "Рассольник домашний по 1-136",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24220.php"
+                },
+                {
+                        "title": "Рассольник ленинградский",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2493.php"
+                },
+                {
+                        "title": "Рассольник по-кубански",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2494.php"
+                },
+                {
+                        "title": "Рисовый грибной суп",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1877.php"
+                },
+                {
+                        "title": "Свекольник холодный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2557.php"
+                },
+                {
+                        "title": "Свекольник холодный по 1-198",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24192.php"
+                },
+                {
+                        "title": "Сладкий суп из черники с клецками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2563.php"
+                },
+                {
+                        "title": "Солянка грибная по 1-172",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24193.php"
+                },
+                {
+                        "title": "Солянка рыбная, по 1-170",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24194.php"
+                },
+                {
+                        "title": "Солянка сборная мясная, по 1-168",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24195.php"
+                },
+                {
+                        "title": "Суп",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1907.php"
+                },
+                {
+                        "title": "Суп",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2520.php"
+                },
+                {
+                        "title": "Суп вишневый с клецками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1622.php"
+                },
+                {
+                        "title": "Суп гороховый с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1801.php"
+                },
+                {
+                        "title": "Суп грибной картофельный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1876.php"
+                },
+                {
+                        "title": "Суп грибной с пирожками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1821.php"
+                },
+                {
+                        "title": "Суп из белых грибов с макаронами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1792.php"
+                },
+                {
+                        "title": "Суп из говядины",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1757.php"
+                },
+                {
+                        "title": "Суп из клюквы и яблок",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2562.php"
+                },
+                {
+                        "title": "Суп из моркови и кефира",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2065.php"
+                },
+                {
+                        "title": "Суп из овощей",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2496.php"
+                },
+                {
+                        "title": "Суп из овсяной крупы с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1909.php"
+                },
+                {
+                        "title": "Суп из овсяных хлопьев с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1908.php"
+                },
+                {
+                        "title": "Суп из плодов свежих",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2560.php"
+                },
+                {
+                        "title": "Суп из свежих помидоров",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2553.php"
+                },
+                {
+                        "title": "Суп из свежих фруктов по 1-200",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24208.php"
+                },
+                {
+                        "title": "Суп из свекольной ботвы и щавеля",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2552.php"
+                },
+                {
+                        "title": "Суп из смеси сухофруктов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2561.php"
+                },
+                {
+                        "title": "Суп из спаржи",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2157.php"
+                },
+                {
+                        "title": "Суп из утки",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2300.php"
+                },
+                {
+                        "title": "Суп из фасоли с орехами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1796.php"
+                },
+                {
+                        "title": "Суп из цветной капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1879.php"
+                },
+                {
+                        "title": "Суп из черники с клецками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1605.php"
+                },
+                {
+                        "title": "Суп из черники с макаронами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1606.php"
+                },
+                {
+                        "title": "Суп из чечевицы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1553.php"
+                },
+                {
+                        "title": "Суп картофельный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2495.php"
+                },
+                {
+                        "title": "Суп картофельный по 1-142",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24209.php"
+                },
+                {
+                        "title": "Суп картофельный с бобовыми",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2502.php"
+                },
+                {
+                        "title": "Суп картофельный с грибами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2507.php"
+                },
+                {
+                        "title": "Суп картофельный с кальмарами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2711.php"
+                },
+                {
+                        "title": "Суп картофельный с крупой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2500.php"
+                },
+                {
+                        "title": "Суп картофельный с макаронными изделиями",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2503.php"
+                },
+                {
+                        "title": "Суп картофельный с мясными фрикадельками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2499.php"
+                },
+                {
+                        "title": "Суп картофельный с перловой крупой по 1-146",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24210.php"
+                },
+                {
+                        "title": "Суп картофельный с рыбными фрикадельками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2504.php"
+                },
+                {
+                        "title": "Суп картофельный со сладким перцем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2497.php"
+                },
+                {
+                        "title": "Суп лапша грибная",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2516.php"
+                },
+                {
+                        "title": "Суп молочный рисовый",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2094.php"
+                },
+                {
+                        "title": "Суп молочный с белокочанной капустой, по 1-180",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24216.php"
+                },
+                {
+                        "title": "Суп молочный с грибами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2528.php"
+                },
+                {
+                        "title": "Суп молочный с картофельными",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1820.php"
+                },
+                {
+                        "title": "Суп молочный с клецками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2529.php"
+                },
+                {
+                        "title": "Суп молочный с крупой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2526.php"
+                },
+                {
+                        "title": "Суп молочный с макаронами, по 1-172",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24217.php"
+                },
+                {
+                        "title": "Суп молочный с макаронными изделиями",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2525.php"
+                },
+                {
+                        "title": "Суп молочный с овощами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2527.php"
+                },
+                {
+                        "title": "Суп молочный с рисом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2325.php"
+                },
+                {
+                        "title": "Суп молочный с рисом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1841.php"
+                },
+                {
+                        "title": "Суп молочный с рисом, по 1-174",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24218.php"
+                },
+                {
+                        "title": "Суп молочный с тыквой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1811.php"
+                },
+                {
+                        "title": "Суп молочный с тыквой и манной крупой, по 1-178",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24219.php"
+                },
+                {
+                        "title": "Суп овощной на отваре шиповника",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2554.php"
+                },
+                {
+                        "title": "Суп перловый с грибами по 1-164",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24211.php"
+                },
+                {
+                        "title": "Суп пикантный с креветками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2712.php"
+                },
+                {
+                        "title": "Суп полевой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2501.php"
+                },
+                {
+                        "title": "Суп пшенный с мясом по 1-160",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24212.php"
+                },
+                {
+                        "title": "Суп рисовый по 1-158",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24213.php"
+                },
+                {
+                        "title": "Суп с бобовыми (фасоль) по 1-162",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24214.php"
+                },
+                {
+                        "title": "Суп с крупой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2517.php"
+                },
+                {
+                        "title": "Суп с макаронными изделиями",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2512.php"
+                },
+                {
+                        "title": "Суп с перловой крупой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1874.php"
+                },
+                {
+                        "title": "Суп с рыбными вареничками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2506.php"
+                },
+                {
+                        "title": "Суп с рыбными фрикадельками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1787.php"
+                },
+                {
+                        "title": "Суп с фрикадельками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1808.php"
+                },
+                {
+                        "title": "Суп со шпинатом и грибами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1835.php"
+                },
+                {
+                        "title": "Суп фасолевый",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1549.php"
+                },
+                {
+                        "title": "Суп харчо с мясом по 1-164",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24215.php"
+                },
+                {
+                        "title": "Суп холодный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2232.php"
+                },
+                {
+                        "title": "Суп-крем из тыквы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2530.php"
+                },
+                {
+                        "title": "Суп-лапша домашняя",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2515.php"
+                },
+                {
+                        "title": "Суп-лапша с помидорами по-казачьи",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2513.php"
+                },
+                {
+                        "title": "Суп-пюре из зеленого горошка",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2533.php"
+                },
+                {
+                        "title": "Суп-пюре из кабачков или тыквы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2532.php"
+                },
+                {
+                        "title": "Суп-пюре из картофеля и моркови",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1775.php"
+                },
+                {
+                        "title": "Суп-пюре из картофеля по 1-180",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24221.php"
+                },
+                {
+                        "title": "Суп-пюре из моркови по 1-182",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24222.php"
+                },
+                {
+                        "title": "Суп-пюре из печени",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2535.php"
+                },
+                {
+                        "title": "Суп-пюре из птицы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2534.php"
+                },
+                {
+                        "title": "Суп-пюре из разных овощей",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2531.php"
+                },
+                {
+                        "title": "Суп-пюре из рисовой крупы по 1-186",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24223.php"
+                },
+                {
+                        "title": "Суп-пюре из свежих помидоров",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1936.php"
+                },
+                {
+                        "title": "Суп-пюре из черники",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1607.php"
+                },
+                {
+                        "title": "Суп-пюре из шпината по 1-184",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24224.php"
+                },
+                {
+                        "title": "Суп-салат",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2287.php"
+                },
+                {
+                        "title": "Суп-харчо",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1818.php"
+                },
+                {
+                        "title": "Суп-харчо (грузинское национальное блюдо)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2518.php"
+                },
+                {
+                        "title": "Сырный суп",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1997.php"
+                },
+                {
+                        "title": "Уха ладожская с кнелями и расстегаями",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2547.php"
+                },
+                {
+                        "title": "Уха ростовская",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2544.php"
+                },
+                {
+                        "title": "Уха рыбацкая",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2545.php"
+                },
+                {
+                        "title": "Уха с перловой крупой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2546.php"
+                },
+                {
+                        "title": "Уха с расстегаями",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2543.php"
+                },
+                {
+                        "title": "Фасолевый суп",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2222.php"
+                },
+                {
+                        "title": "Харчо",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2090.php"
+                },
+                {
+                        "title": "Хирмаса (суп из субпродуктов с лапшой домашней - бурятское национальное блюдо)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2514.php"
+                },
+                {
+                        "title": "Холодный борщ с редькой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2556.php"
+                },
+                {
+                        "title": "Щи боярские",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2490.php"
+                },
+                {
+                        "title": "Щи зеленые с яйцом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2558.php"
+                },
+                {
+                        "title": "Щи из квашеной капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1812.php"
+                },
+                {
+                        "title": "Щи из квашеной капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2486.php"
+                },
+                {
+                        "title": "Щи из квашеной капусты по 1-132",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24225.php"
+                },
+                {
+                        "title": "Щи из клевера и щавеля",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2071.php"
+                },
+                {
+                        "title": "Щи из свежей белокочанной капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1878.php"
+                },
+                {
+                        "title": "Щи из свежей капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2483.php"
+                },
+                {
+                        "title": "Щи из свежей капусты по 1-130",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24226.php"
+                },
+                {
+                        "title": "Щи из свежей капусты с картофелем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2484.php"
+                },
+                {
+                        "title": "Щи из щавеля",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2485.php"
+                },
+                {
+                        "title": "Щи из щавеля по 1-132",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24227.php"
+                },
+                {
+                        "title": "Щи по-уральски (с крупой)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2488.php"
+                },
+                {
+                        "title": "Щи с ячневой крупой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1799.php"
+                },
+                {
+                        "title": "Щи суточные",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2487.php"
+                },
+                {
+                        "title": "Щи суточные по 1-134",
+                        "link": "https://health-diet.ru/base_of_food/sostav/24228.php"
+                },
+                {
+                        "title": "Щи томленые с гречневыми блинами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2489.php"
+                },
+                {
+                        "title": "Юшка картофельная с кабачками и помидорами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2498.php"
+                },
+                {
+                        "title": "Яблочный суп со сметаной",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2073.php"
+                }
+        ]
+}

@@ -1,0 +1,785 @@
+{
+        "category": "Десерты",
+        "dishes": [
+                {
+                        "title": "Абрикосовое суфле",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1564.php"
+                },
+                {
+                        "title": "Апельсиновые корзиночки с кремом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1861.php"
+                },
+                {
+                        "title": "Апельсиновый десерт",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2192.php"
+                },
+                {
+                        "title": "Апельсины в ванильном соусе",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1836.php"
+                },
+                {
+                        "title": "Безе",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2278.php"
+                },
+                {
+                        "title": "Безе",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2037.php"
+                },
+                {
+                        "title": "Бисквит из яичных белков",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2243.php"
+                },
+                {
+                        "title": "Блинчики из овсяных хлопьев",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1768.php"
+                },
+                {
+                        "title": "Блинчики с маком",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1762.php"
+                },
+                {
+                        "title": "Блинчики с морковью",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2156.php"
+                },
+                {
+                        "title": "Блинчики с мясным, ливерным, творожным, яблочным фаршем, джемом, повидлом или вареньем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3044.php"
+                },
+                {
+                        "title": "Блинчики-полуфабрикат (оболочка)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3043.php"
+                },
+                {
+                        "title": "Блины",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3038.php"
+                },
+                {
+                        "title": "Блины гречневые",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3040.php"
+                },
+                {
+                        "title": "Блины гурьевские",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1957.php"
+                },
+                {
+                        "title": "Блины дехканские",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2331.php"
+                },
+                {
+                        "title": "Блины из вареного картофеля",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2594.php"
+                },
+                {
+                        "title": "Блины из капусты",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2595.php"
+                },
+                {
+                        "title": "Блины из тыквы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2596.php"
+                },
+                {
+                        "title": "Блины красные",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1956.php"
+                },
+                {
+                        "title": "Блины кукурузные (чечено-ингушское национальное блюдо)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3042.php"
+                },
+                {
+                        "title": "Блины с квашенной капустой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1958.php"
+                },
+                {
+                        "title": "Блины славянские",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1955.php"
+                },
+                {
+                        "title": "Блины со сладким соусом по-староелецки",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3039.php"
+                },
+                {
+                        "title": "Блины-скородумки",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1954.php"
+                },
+                {
+                        "title": "Брусника свежая с сахаром",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1592.php"
+                },
+                {
+                        "title": "Ванильный крем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1791.php"
+                },
+                {
+                        "title": "Ванильный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1746.php"
+                },
+                {
+                        "title": "Вафли",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2346.php"
+                },
+                {
+                        "title": "Вафли на вафельнице",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2039.php"
+                },
+                {
+                        "title": "Взбитый лимонный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1744.php"
+                },
+                {
+                        "title": "Взбитый шоколадный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1741.php"
+                },
+                {
+                        "title": "Взбитый яблочный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1743.php"
+                },
+                {
+                        "title": "Вишневый мусс",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1623.php"
+                },
+                {
+                        "title": "Галушки яблочные",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1911.php"
+                },
+                {
+                        "title": "Груши, начиненные творогом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1629.php"
+                },
+                {
+                        "title": "Густой шоколадный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1742.php"
+                },
+                {
+                        "title": "Десерт",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2041.php"
+                },
+                {
+                        "title": "Десерт из сметаны",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2971.php"
+                },
+                {
+                        "title": "Десерт молочный (чувашское национальное блюдо)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2988.php"
+                },
+                {
+                        "title": "Желе из барбариса",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1586.php"
+                },
+                {
+                        "title": "Желе из водяники",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1626.php"
+                },
+                {
+                        "title": "Желе из кишмиша",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1580.php"
+                },
+                {
+                        "title": "Желе из лимонов, апельсинов, мандаринов (лимон)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2963.php"
+                },
+                {
+                        "title": "Желе из молока",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2969.php"
+                },
+                {
+                        "title": "Желе из плодов или ягод свежих",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2962.php"
+                },
+                {
+                        "title": "Желе из сиропа плодового или ягодного",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2968.php"
+                },
+                {
+                        "title": "Желе из сливок",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1827.php"
+                },
+                {
+                        "title": "Желе из экстракта плодового или ягодного, или из сока плодового или ягодного натурального (сок)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2967.php"
+                },
+                {
+                        "title": "Желе лимонное",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2333.php"
+                },
+                {
+                        "title": "Желе мясное или рыбное",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2938.php"
+                },
+                {
+                        "title": "Желе с плодами свежими и консервированными",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2964.php"
+                },
+                {
+                        "title": "Изюм или чернослив, или курага в медовом желе (башкирское национальное блюдо)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2947.php"
+                },
+                {
+                        "title": "Клубника с творогом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2176.php"
+                },
+                {
+                        "title": "Клубничный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2174.php"
+                },
+                {
+                        "title": "Клубничный пудинг",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2177.php"
+                },
+                {
+                        "title": "Клюквенный мусс",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1780.php"
+                },
+                {
+                        "title": "Клюквенный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1729.php"
+                },
+                {
+                        "title": "Коврижка",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2219.php"
+                },
+                {
+                        "title": "Козинаки",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2080.php"
+                },
+                {
+                        "title": "Кофейный крем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1761.php"
+                },
+                {
+                        "title": "Крем ванильный из сметаны",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2976.php"
+                },
+                {
+                        "title": "Крем ванильный, шоколадный, кофейный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2975.php"
+                },
+                {
+                        "title": "Крем из клубники",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2175.php"
+                },
+                {
+                        "title": "Крем из клюквы и тыквы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1830.php"
+                },
+                {
+                        "title": "Крем из ревеня",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1867.php"
+                },
+                {
+                        "title": "Крем из ржаного хлеба",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1790.php"
+                },
+                {
+                        "title": "Крем из смородины",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2183.php"
+                },
+                {
+                        "title": "Крем из черники",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2185.php"
+                },
+                {
+                        "title": "Крем твороженный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2228.php"
+                },
+                {
+                        "title": "Крем ягодный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2977.php"
+                },
+                {
+                        "title": "Крем-крокант",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1815.php"
+                },
+                {
+                        "title": "Крем-мокко",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1822.php"
+                },
+                {
+                        "title": "Кулага",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1609.php"
+                },
+                {
+                        "title": "Лантутики",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2330.php"
+                },
+                {
+                        "title": "Лимонное пирожное",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1924.php"
+                },
+                {
+                        "title": "Лимонный крем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1794.php"
+                },
+                {
+                        "title": "Лимонный снежок",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1752.php"
+                },
+                {
+                        "title": "Лимонный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2140.php"
+                },
+                {
+                        "title": "Лимонный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1730.php"
+                },
+                {
+                        "title": "Лимонный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1747.php"
+                },
+                {
+                        "title": "Лимонный творог",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1760.php"
+                },
+                {
+                        "title": "Малина или земляника с молоком, сметаной или сливками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2944.php"
+                },
+                {
+                        "title": "Мармелад из абрикосов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1556.php"
+                },
+                {
+                        "title": "Мармелад из абрикосов в кожице",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1557.php"
+                },
+                {
+                        "title": "Мармелад из брусники и яблок",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1603.php"
+                },
+                {
+                        "title": "Мармелад из черники",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1615.php"
+                },
+                {
+                        "title": "Медовая горка",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2081.php"
+                },
+                {
+                        "title": "Мороженое",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2990.php"
+                },
+                {
+                        "title": "Мороженое с плодами или ягодами консервированными",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2989.php"
+                },
+                {
+                        "title": "Мусс из растворимого кофе",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1803.php"
+                },
+                {
+                        "title": "Мусс из ревеня",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1850.php"
+                },
+                {
+                        "title": "Мусс из ржаной муки",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1824.php"
+                },
+                {
+                        "title": "Мусс из смородины",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2334.php"
+                },
+                {
+                        "title": "Мусс из тыквы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1807.php"
+                },
+                {
+                        "title": "Мусс клюквенный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2965.php"
+                },
+                {
+                        "title": "Мусс лимонный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2966.php"
+                },
+                {
+                        "title": "Мусс яблочный (на крупе манной)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2972.php"
+                },
+                {
+                        "title": "Оладьи",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1819.php"
+                },
+                {
+                        "title": "Оладьи",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3046.php"
+                },
+                {
+                        "title": "Оладьи из моркови",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1793.php"
+                },
+                {
+                        "title": "Оладьи из тыквы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1805.php"
+                },
+                {
+                        "title": "Оладьи с изюмом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3047.php"
+                },
+                {
+                        "title": "Оладьи с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1919.php"
+                },
+                {
+                        "title": "Оладьи с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3048.php"
+                },
+                {
+                        "title": "Омлет с  яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1913.php"
+                },
+                {
+                        "title": "Омлет с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2651.php"
+                },
+                {
+                        "title": "Омлет с яблоками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2246.php"
+                },
+                {
+                        "title": "Ореховый крем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1772.php"
+                },
+                {
+                        "title": "Орешки творожные по-русски",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2662.php"
+                },
+                {
+                        "title": "Пастила из ежевики",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1944.php"
+                },
+                {
+                        "title": "Пастила из калины",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1943.php"
+                },
+                {
+                        "title": "Пирожное",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2021.php"
+                },
+                {
+                        "title": "Плавающие острова",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1870.php"
+                },
+                {
+                        "title": "Пудинг из ревеня",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1872.php"
+                },
+                {
+                        "title": "Пудинг из риса и ревеня",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1851.php"
+                },
+                {
+                        "title": "Пудинг из сыра",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1844.php"
+                },
+                {
+                        "title": "Пудинг из творога, запеченный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2660.php"
+                },
+                {
+                        "title": "Пудинг на сметане",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1858.php"
+                },
+                {
+                        "title": "Пудинг ореховый",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1848.php"
+                },
+                {
+                        "title": "Пудинг рисовый, манный, пшенный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2631.php"
+                },
+                {
+                        "title": "Пудинг с грушами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1628.php"
+                },
+                {
+                        "title": "Пудинг сливочный с орехами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1856.php"
+                },
+                {
+                        "title": "Пудинг сухарный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2980.php"
+                },
+                {
+                        "title": "Ревень с сахаром",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1857.php"
+                },
+                {
+                        "title": "Ревень с сухарями и сливками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1863.php"
+                },
+                {
+                        "title": "Самбук абрикосовый",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2974.php"
+                },
+                {
+                        "title": "Самбук из абрикосов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1563.php"
+                },
+                {
+                        "title": "Самбук яблочный или сливовый",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2973.php"
+                },
+                {
+                        "title": "Сгущенка по-русски",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2290.php"
+                },
+                {
+                        "title": "Сельдерей на десерт",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2164.php"
+                },
+                {
+                        "title": "Сладкий молочный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1739.php"
+                },
+                {
+                        "title": "Сладкое блюдо из риса и творога",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1769.php"
+                },
+                {
+                        "title": "Сливки или сметана взбитые",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2978.php"
+                },
+                {
+                        "title": "Сливовый соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1745.php"
+                },
+                {
+                        "title": "Смородина с медом и миндалем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2182.php"
+                },
+                {
+                        "title": "Смородиновый",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2181.php"
+                },
+                {
+                        "title": "Снежки",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2020.php"
+                },
+                {
+                        "title": "Соус абрикосовый",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2941.php"
+                },
+                {
+                        "title": "Соус земляничный или малиновый, или вишневый",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2940.php"
+                },
+                {
+                        "title": "Соус из брусники и сыра",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1736.php"
+                },
+                {
+                        "title": "Соус из изюма и миндаля",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1748.php"
+                },
+                {
+                        "title": "Соус из какао",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1749.php"
+                },
+                {
+                        "title": "Соус из крыжовника",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1732.php"
+                },
+                {
+                        "title": "Соус из яблок и брусники",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1917.php"
+                },
+                {
+                        "title": "Соус клюквенный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2942.php"
+                },
+                {
+                        "title": "Соус сметанный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1880.php"
+                },
+                {
+                        "title": "Соус яблочный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2943.php"
+                },
+                {
+                        "title": "Суфле",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2311.php"
+                },
+                {
+                        "title": "Суфле ванильное, шоколадное, ореховое",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2979.php"
+                },
+                {
+                        "title": "Сырники с морковью",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2659.php"
+                },
+                {
+                        "title": "Творог апельсиновый",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1786.php"
+                },
+                {
+                        "title": "Творожный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2135.php"
+                },
+                {
+                        "title": "Торт",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1885.php"
+                },
+                {
+                        "title": "Торт",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2038.php"
+                },
+                {
+                        "title": "Торт",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2040.php"
+                },
+                {
+                        "title": "Торт",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2241.php"
+                },
+                {
+                        "title": "Торт",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2344.php"
+                },
+                {
+                        "title": "Торт",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2345.php"
+                },
+                {
+                        "title": "Торт",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2036.php"
+                },
+                {
+                        "title": "Торт",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2238.php"
+                },
+                {
+                        "title": "Торт",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2115.php"
+                },
+                {
+                        "title": "Торт бисквитный с орехами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2362.php"
+                },
+                {
+                        "title": "Торт Зебра»",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2350.php"
+                },
+                {
+                        "title": "Торт из картофеля с творогом",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2215.php"
+                },
+                {
+                        "title": "Торт из тыквы",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2273.php"
+                },
+                {
+                        "title": "Торт картофельный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2274.php"
+                },
+                {
+                        "title": "Торт печёночный",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2340.php"
+                },
+                {
+                        "title": "Торт Прага»",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2351.php"
+                },
+                {
+                        "title": "Торт Черный принц»",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2348.php"
+                },
+                {
+                        "title": "Тыква с орехами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1860.php"
+                },
+                {
+                        "title": "Тыква с ревенем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1843.php"
+                },
+                {
+                        "title": "Тыква с фруктами",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2167.php"
+                },
+                {
+                        "title": "Тыква, запеченная с фруктами, по-ижевски (удмуртское национальное блюдо)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2615.php"
+                },
+                {
+                        "title": "Тыквенный крем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1756.php"
+                },
+                {
+                        "title": "Фаршированные яблоки",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1916.php"
+                },
+                {
+                        "title": "Фруктовый маседуан",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1559.php"
+                },
+                {
+                        "title": "Холодное из абрикосов",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1560.php"
+                },
+                {
+                        "title": "Чернослив со сливками или сметаной взбитыми",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2945.php"
+                },
+                {
+                        "title": "Шоколадное мороженое",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1865.php"
+                },
+                {
+                        "title": "Шоколадный крем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1862.php"
+                },
+                {
+                        "title": "Шоколадный пудинг",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1750.php"
+                },
+                {
+                        "title": "Шоколадный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1740.php"
+                },
+                {
+                        "title": "Шульо мелна (блины овсяные - марийское национальное блюдо)",
+                        "link": "https://health-diet.ru/base_of_food/sostav/3041.php"
+                },
+                {
+                        "title": "Яблоки в грильяже",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2078.php"
+                },
+                {
+                        "title": "Яблоки в желе",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2970.php"
+                },
+                {
+                        "title": "Яблоки печеные",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2857.php"
+                },
+                {
+                        "title": "Яблоки печеные",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2981.php"
+                },
+                {
+                        "title": "Яблоки печеные с брусникой",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1599.php"
+                },
+                {
+                        "title": "Яблоки со взбитыми сливками",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1777.php"
+                },
+                {
+                        "title": "Яблоки, фаршированные морковью",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2982.php"
+                },
+                {
+                        "title": "Яблочно-сливочный соус",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1737.php"
+                },
+                {
+                        "title": "Яблочный крем",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1915.php"
+                },
+                {
+                        "title": "Ягодный мусс",
+                        "link": "https://health-diet.ru/base_of_food/sostav/2180.php"
+                },
+                {
+                        "title": "Яичный мусс",
+                        "link": "https://health-diet.ru/base_of_food/sostav/1774.php"
+                }
+        ]
+}
