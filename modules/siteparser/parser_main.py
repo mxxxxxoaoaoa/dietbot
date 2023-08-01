@@ -47,7 +47,7 @@ def get_recipe(category):
         "recipes": []
     }
     print(f"Getting recipes for {category['category']}")
-    for item in category['dishes']:
+    for ind, item in enumerate(category['dishes']):
         r = requests.get(item['link'])
         soup = bs(r.content, 'lxml')
         ingredients = []
@@ -77,6 +77,7 @@ def get_recipe(category):
             'recipe': recipe_desc,
             'nutritional': nutritional
         })
+        print(f"{ind}/{len(category['dishes'])}")
     return data
 
 
@@ -84,10 +85,10 @@ cats = get_categories()
 for cat in cats:
     res = get_dishes_links(cat)
     r = get_recipe(res)
-    with open(f"{cat['category']}.json", 'w+', encoding='utf-8') as f:
+    with open(f"data/json_files/{cat['category']}.json", 'w+', encoding='utf-8') as f:
         json.dump(r, f, indent=4, ensure_ascii=False)
         f.close()
-        
+
 # for item in get_categories():
 #     with open(f"{item['category']}.json", 'w+', encoding='utf-8') as f:
 #         for i in get_dishes_links(item):
