@@ -87,6 +87,7 @@ for cat in cats:
     with open(f"{cat['category']}.json", 'w+', encoding='utf-8') as f:
         json.dump(r, f, indent=4, ensure_ascii=False)
         f.close()
+        
 # for item in get_categories():
 #     with open(f"{item['category']}.json", 'w+', encoding='utf-8') as f:
 #         for i in get_dishes_links(item):
